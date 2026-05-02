@@ -1,0 +1,39 @@
+# This Certificate of Authority is issued by IVONA Software http://www.ivona.com
+# 
+# Do not change a single byte in this file or the license will invalidate.
+# 
+# This file is an appendix to the license and defines license parameters.
+
+Product: IVONA
+Licensee: ReadSpeaker
+Licensor: IVONA Software Sp z o.o, Al. Grunwaldzka 472, 80-309 Gdansk, Poland
+Certificate-ID: a1359480
+Num-threads: UNLIMITED
+Thread-speed: UNLIMITED
+Expiration-date: NEVER
+Voices: Kimberly Ricardo Hans Carla Brian Conchita Carmen Liv Amy Salli Justin Geraint Kendra Vitória Jan Ivy Maja Gwyneth Astrid Cristiano Mads Raveena Ruben Naja Ewa Joey Penélope Lotte Filiz Jennifer Miguel Dóra Tatyana Mathieu Jacek Giorgio Eric Emma Chipmunk Chantal Nicole Inês Enrique Agnieszka Maxim Céline Marlene Karl Russell
+Extension-SSML: TRUE
+
+# This IVONA Text-to-Speech Certificate of Authenticity is valid only with
+# a proof of purchase and with a License Agreement signed by Licensor.
+# 
+# Niniejszy Certyfikat Autentyczności dla IVONA Text-to-Speech
+# jest ważny tylko i wyłącznie wraz z pisemną,
+# podpisaną przez Licencjodawcę Umową Licencyjną.
+
+-----BEGIN SIGNATURE-----
+2e945175ac5dbf3408f2440d334f7fbe484cdf5df8aea1415a5b17f18b2e01de682c23c6c814
+1943d4b413327de4fbbc0f11d3cc02211647eb930e79579030719a7e5c9138cd578c610b085f
+6bd9659553939a79414b230734c58ffbe87b2c81bab855364c4403b3bc156e1cc0cec2f69e2a
+b7a7654ad06cd280d8018c49ebacdb5d1852de60e3f81abc8e440aae88be8c767bb561f24031
+8639bc1d54ec907cefc571b7ff7cb69b4c5ca4a81a8e29130a84be36e0d76acdad207ea0dade
+4f66f1f17939ad1db982770687112753771c22a88cf58bcbff89c6662101ab55893ca90cb168
+9a67cdedbba7fcbf5d315b78d11d9b601a683afebbc2688c7b09f3e594c3017061332a6fb03d
+30a30fcc83ac78c2e3a4080a8711ba656da00721b8ea7a4cd15635ef4c1084f1c7ae2feb3fcb
+57a6779c0e618c6f023dafae390013945214ec6d65fba7a0ef13f8cb16a3252345579229888c
+21714080164afa78e91fa2216d92f0163300e7ab9c4cf087d50d4ae21d0aa3b28779a6cba296
+b5350593a674aaf758d004cee32dc893f3a77c5016a48ae6408d57b73f30a1fd4021fc08b9b7
+4b269ae33eaa06b8f92707df47452c2b408aa083b9da17f00fa498402d640c83810ec165e48b
+301776c4dfda1589c9430e02e1dafbf2a89d4f04a1ced69bffdbd7fd4ca1bad5f656fc508ca4
+7a5b44987212515d49e5a397e31391f42c8e5175ac611f413803
+-----END SIGNATURE-----
